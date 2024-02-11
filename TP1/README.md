@@ -3,8 +3,8 @@
 Data:11/02/2024
 
 ### Autor
-Nome:João Silva Loureiro
-Id: A100832
+- Nome:João Silva Loureiro
+* Id: A100832
 
 ### Lista de Parágrafos
 Com este primeiro trabalho prático procuramos criar:
