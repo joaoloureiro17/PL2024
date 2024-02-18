@@ -16,12 +16,12 @@ Linhas iniciadas por "# texto", ou "## texto" ou "### texto"
 ### Bold
 Pedaços de texto entre "**"
 - **In:** Este é um `**exemplo** ...`
-- **Out:** Este é um `<b>exemplo</b>` ...
+- **Out:** Este é um `<b>exemplo</b> ...`
 
 ### Itálico
 Pedaços de texto entre "*"
 - **In:** Este é um `*exemplo* ...`
-- **Out:** Este é um `<i>exemplo</i>` ...
+- **Out:** Este é um `<i>exemplo</i> ...`
 
 ### Lista numerada
 - **In:**
