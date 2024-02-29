@@ -1,0 +1,1 @@
+On 123 Off = 456 On 789 = 10 Off = 20 On 100 = 50 Off 10 On 5 = 15 Off = 25
