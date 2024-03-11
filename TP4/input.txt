@@ -1,0 +1,3 @@
+Select id, nome, salário 
+	From empregados 
+	WHERE salário >= 820
